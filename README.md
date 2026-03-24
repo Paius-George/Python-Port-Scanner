@@ -15,8 +15,8 @@ Un scanner de porturi rapid, scris în Python, care utilizează multithreading p
 1. Clonează repository-ul:
 
 ```
-git clone https://github.com/Paius-George/port-scanner.git
-cd port-scanner
+git clone https://github.com/Paius-George/Python-Port-Scanner
+cd Python-Port-Scanner/
 ```
 
 2. Instalează dependențele:
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Rulează scriptul și urmează instrucțiunile din terminal:
 
 ```
-python scanner.py
+python portscanner.py
 ```
 
 ## Output:
