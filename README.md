@@ -1,3 +1,4 @@
+# Python Port Scanner
 
 Un scanner de porturi rapid, scris în Python, care utilizează multithreading pentru performanță și include detectarea sistemului de operare bazată pe TTL.
 
