@@ -66,7 +66,12 @@ def scan_port(ipaddress, port):
                     service = socket.getservbyport(port)
                 except:
                     service = "unknown"
-                print(f"[+] Port {port} open - {service}")
+
+                banner = grab_banner(ipaddress, port)
+                if banner:
+                    print(f"[+] Port {port} open - {service} | Banner: {banner}")
+                else:
+                    print(f"[+] Port {port} open - {service}")
     except:
         pass
 
