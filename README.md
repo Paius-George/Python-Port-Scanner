@@ -34,7 +34,8 @@ python portscanner.py
 
 ## Output:
 
-<img width="908" height="1040" alt="image" src="https://github.com/user-attachments/assets/5068e1d8-6dc3-459f-99d6-8aff3756bd35" />
+<img width="913" height="1042" alt="image" src="https://github.com/user-attachments/assets/14e0d189-8642-4307-9f1d-4dccb3958e77" />
+
 
 ---
 > Acest tool este creat strict în scopuri educaționale. Utilizatorul este singurul responsabil pentru modul în care alege să îl folosească. Scanarea rețelelor fără permisiune prealabilă poate fi ilegală.
