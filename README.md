@@ -27,7 +27,8 @@ pip install -r requirements.txt
    
 ## Output:
 
-![[Pasted image 20260324185207.png|697]]
+<img width="908" height="1040" alt="image" src="https://github.com/user-attachments/assets/5068e1d8-6dc3-459f-99d6-8aff3756bd35" />
+
 
 ## Utilizare
 Rulează scriptul și urmează instrucțiunile din terminal:
