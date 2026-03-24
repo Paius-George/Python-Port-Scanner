@@ -24,11 +24,6 @@ cd port-scanner
 ```
 pip install -r requirements.txt
 ```
-   
-## Output:
-
-<img width="908" height="1040" alt="image" src="https://github.com/user-attachments/assets/5068e1d8-6dc3-459f-99d6-8aff3756bd35" />
-
 
 ## Utilizare
 Rulează scriptul și urmează instrucțiunile din terminal:
@@ -36,5 +31,10 @@ Rulează scriptul și urmează instrucțiunile din terminal:
 ```
 python scanner.py
 ```
+
+## Output:
+
+<img width="908" height="1040" alt="image" src="https://github.com/user-attachments/assets/5068e1d8-6dc3-459f-99d6-8aff3756bd35" />
+
 ---
 > Acest tool este creat strict în scopuri educaționale. Utilizatorul este singurul responsabil pentru modul în care alege să îl folosească. Scanarea rețelelor fără permisiune prealabilă poate fi ilegală.
