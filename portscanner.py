@@ -14,7 +14,7 @@ def scan(target):
         start_port = int(input("Start port: "))
         end_port = int(input("End port: "))
     except ValueError:
-        print("[!] Introdu te rog numere valide pentru porturi.")
+        print("[!] Please enter valid port numbers.")
         return
 
     with ThreadPoolExecutor(max_workers=100) as executor:
@@ -90,7 +90,7 @@ def detect_os(ip):
                 os_guess = "Necunoscut"
             print(f"[*] OS detectat: {os_guess} (TTL={ttl})")
         else:
-            print("[!] Host offline sau ICMP blocat")
+            print("[!] Host offline or ICMP blocked")
     except Exception as e:
         print(f"[!] Eroare ping: {e}")
 
